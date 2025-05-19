@@ -1,5 +1,3 @@
-SIEM Detection Rules Repository
-
 Welcome to the SIEM Detection Rules repository — a collection of vendor-agnostic detection rules, written primarily in Sigma format, to help defenders detect suspicious and malicious activity across different environments.
 
 
